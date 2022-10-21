@@ -12,6 +12,7 @@ I originally came to Mizzou to study computer science. I was always impressed by
 - Media design
 - Data analysis
 - And more!
+
 After just a few weeks of class I have already began to develop projects with coding languages such as _python_, _HTML_, and _JavaScript_. I have also began learning how to use software like photoshop to create mock websites and logos. Examples of both are included below.
 
 **Coding challenge using HTML and JavaScript**
