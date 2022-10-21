@@ -2,7 +2,7 @@
 
 ![alt text](https://showme.missouri.edu/wp-content/uploads/2020/07/Campus-Beauty-17.jpg)
 
-The Information Technologies degree at Mizzou has two main focues. First being software engineering and computer management. The other being digital media design, development, and production. We will dive deeper into these two focuses in [Markdown2](https://github.com/jakesimpkins/midtermProject/blob/main/markdown2) and [Markdown3](https://github.com/jakesimpkins/midtermProject/blob/main/markdown3). For now we will just be focusing on the degree as a whole. A great source for information about the degree can be found at the [Mizzou IT page](https://catalog.missouri.edu/collegeofengineering/informationtechnology/).
+The Information Technologies degree at Mizzou has two main focues. First being software engineering and computer management. The other being digital media design, development, and production. We will dive deeper into these two focuses in [Markdown2](https://github.com/jakesimpkins/midtermProject/blob/main/markdown2.md) and [Markdown3](https://github.com/jakesimpkins/midtermProject/blob/main/markdown3.md). For now we will just be focusing on the degree as a whole. A great source for information about the degree can be found at the [Mizzou IT page](https://catalog.missouri.edu/collegeofengineering/informationtechnology/).
 
 # Why I chose Mizzou IT
 
