@@ -4,10 +4,10 @@
 After creating and completing our project we are expected to submit an HTTPS URL that links to our Github repository.
 
 **This Repository's Description**: The main page of this repository is housed on the _README.md_, the current page. This page however is only one of five total markdown pages. This repository also houses four other pages titled as follows.
-- [Markdown1](https://github.com/jakesimpkins/midtermProject/blob/main/markdown1)
-- [Markdown2](https://github.com/jakesimpkins/midtermProject/blob/main/markdown2)
-- [Markdown3](https://github.com/jakesimpkins/midtermProject/blob/main/markdown3)
-- [Markdown4](https://github.com/jakesimpkins/midtermProject/blob/main/markdown4)
+- [Markdown1](https://github.com/jakesimpkins/midtermProject/blob/main/markdown1.md)
+- [Markdown2](https://github.com/jakesimpkins/midtermProject/blob/main/markdown2.md)
+- [Markdown3](https://github.com/jakesimpkins/midtermProject/blob/main/markdown3.md)
+- [Markdown4](https://github.com/jakesimpkins/midtermProject/blob/main/markdown4.md)
 
 Each of the above markdown pages fits all of the above listed criteria while also varying from one another slightly based on the information written in each.
 
