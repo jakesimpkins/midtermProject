@@ -29,6 +29,7 @@ Each of the above markdown pages fits all of the above listed criteria while als
 - Italicized text (Like _This_)
 - A block of code
 Such as:
+```
 <html>
 <head>
 </head>
@@ -36,3 +37,4 @@ Such as:
 <h1>Hello World<h1>
 </body>
 </html>
+```
